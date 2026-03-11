@@ -294,9 +294,8 @@ APLO isn't just an incremental improvement - it's a fundamental rethinking of wh
 ---
 
 **Classification**: Advanced R&D - Next Generation  
-**Patent Status**: Provisional filing Q1 2026  
-**License**: Proprietary (Aevov Corporation)  
-**Contact**: orion@aevov.space
+**License**: Proprietary (Aevov Corporation) - Status will be updated over time  
+**Contact**: orion@aevov.space (soon)
 
 ---
 
