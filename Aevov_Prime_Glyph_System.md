@@ -1,9 +1,8 @@
 # The Aevov Prime Glyph System
-## Patentable Alternative Encoding for APL
 
 **Version 1.0 - Original Design**  
 **Date: October 2025**  
-**Classification: Core IP - Design Patent Pending**
+**Classification: Core IP**
 
 ---
 
@@ -11,7 +10,7 @@
 
 The **Aevov Prime Glyph System** is an entirely original character set that provides a **patentable alternative encoding** for the APL (Aevov Programming Language). While APL's runic symbols offer cultural appeal and Unicode compatibility, Aevov Prime provides:
 
-1. **Strong IP Protection** - Zero prior art, fully patentable
+1. **Strong IP Protection** - Zero prior art, space-centrie
 2. **Geometric Clarity** - Angular, futuristic aesthetic
 3. **Visual Distinctiveness** - Every glyph unmistakable
 4. **Technical Symbolism** - Each shape represents its function
@@ -182,7 +181,7 @@ Strategy:
 # Runic syntax (cultural appeal):
 ᛟᚢᛏ := ᛈᛩᛏᛏᛖᚱᚾ_ᛗᛩᛏᚳᚻ(ᛇᚾ)
 
-# Aevov Prime syntax (patent protected):
+# Aevov Prime syntax (see commerncial license):
 ⬢⊔⎯ := ⊢⌒⟁⎯⊥⎯╋⧅_⟁⟁⟁⟁⟨⎯(⬝⧅)
 
 # ASCII fallback (compatibility):
@@ -251,7 +250,7 @@ Design Rules:
 | Aspect | Runic Symbols | Aevov Prime |
 |--------|---------------|-------------|
 | **History** | 1,500+ years old | Created 2025 |
-| **Patent Status** | Public domain | Patentable ✓ |
+| **Patent Status** | Public domain* see LICENSE_ISA.md  | see commercial license for context ✓ |
 | **Unicode** | U+16A0-U+16F0 | Private Use Area |
 | **Aesthetic** | Ancient, mystical | Futuristic, technical |
 | **Recognition** | Cultural gravitas | Brand identity |
@@ -749,12 +748,12 @@ const APLCompiler = {
 
 ---
 
-## 6. Patent Strategy {#patent}
+## 6. Patent Strategy { updated - see LICENSE_ISA.md }
 
-### 6.1 Design Patent Application
+### 6.1 Mixed liense Strategy
 
 ```yaml
-Patent Type: Design Patent (20 years protection)
+
 
 Title: "Ornamental Designs for Computer Programming Language Characters"
 
@@ -785,15 +784,10 @@ Prior Art Search:
   - Not in Unicode standard
   - Not in any programming language
   - Created specifically for APL (2025)
-  
-Patent Strength: VERY STRONG
-  - Original design
-  - Unique functionality
-  - Zero prior art
-  - Clear industrial application
+
 ```
 
-### 6.2 Trademark Strategy
+### 6.2 Our Trademark Strategy
 
 ```yaml
 Trademark Application: "AEVOV PRIME"
@@ -1189,9 +1183,9 @@ Example (Q-Alpha):
 
 The **Aevov Prime Glyph System** provides APL with:
 
-1. ✅ **Strong IP Protection** - Design patent, trademark, copyright
+1. ✅ **Prior art ** - Design, trademark, copyright
 2. ✅ **Visual Distinctiveness** - Geometric, futuristic, professional
-3. ✅ **Dual Encoding Strategy** - Runic (cultural) + Aevov Prime (patent)
+3. ✅ **Dual Encoding Strategy** - Runic (cultural) + Aevov Prime 
 4. ✅ **Technical Excellence** - Clear, functional, optimized
 5. ✅ **Brand Identity** - Unique, memorable, valuable
 
@@ -1199,7 +1193,7 @@ The **Aevov Prime Glyph System** provides APL with:
 
 ```yaml
 2025 Q4: Complete font development
-2026 Q1: File design patent
+2026 Q1: Continue optimization for launch readiness
 2026 Q2: Submit Unicode proposal
 2026 Q3: Release APL compiler with dual encoding
 2026 Q4: Educational materials and documentation
@@ -1209,7 +1203,7 @@ The **Aevov Prime Glyph System** provides APL with:
 
 ---
 
-**Document Classification**: Core IP - Patent Pending  
+**Document Classification**: Core IP - Mixed license
 **License**: Proprietary (Aevov Corporation)  
 **Contact**: legal@aevov.tech
 
