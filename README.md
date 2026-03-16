@@ -294,7 +294,7 @@ APLO isn't just an incremental improvement - it's a fundamental rethinking of wh
 ---
 
 **Classification**: Advanced R&D - Next Generation  
-**License**: Proprietary (Aevov Corporation) - Status will be updated over time  
+**License**: Mixed License (Aevov Corporation) - Check LICENSE_ISA.md 
 **Contact**: orion@aevov.space (soon)
 
 ---
